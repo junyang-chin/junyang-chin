@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junyang-chin
-- 👀 I’m interested in ReactJs and NextJs
+- 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Web Development and Data Science on the side
 - 💞️ I’m looking to collaborate on any open source project preferably in the context of Malaysia
 - 📫 How to reach me junyang.chin@outlook.com
