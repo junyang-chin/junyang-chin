@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junyang-chin
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Server Side Rendering and making React SPAs SEO friendly
+- 👀 I’m interested in Web development
+- 🌱 I’m currently working on writing maintainable code with design patterns
 - 💞️ I’m looking to collaborate on any open source project preferably in the context of Malaysia
 - 📫 How to reach me junyang.chin@outlook.com
 
