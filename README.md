@@ -7,7 +7,7 @@
 I write Object Oriented PHP most of the time but that doesn't limit me to exploring new languages and programming paradigms. 
 
 [![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyang-chin)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyang-chin&hide=jupyter&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyang-chin&hide=jupyter_notebook&layout=compact)
 <!---
 junyang-chin/junyang-chin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
