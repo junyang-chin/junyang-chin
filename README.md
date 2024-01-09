@@ -11,3 +11,7 @@ Hoping to get my first PR accepted as my first milestone in open source contribu
 junyang-chin/junyang-chin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyang-chin)](https://github.com/anuraghazra/github-readme-stats)
+
+
